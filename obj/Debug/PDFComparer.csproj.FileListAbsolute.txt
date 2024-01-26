@@ -1,0 +1,10 @@
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\bin\Debug\PDFComparer.exe.config
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\bin\Debug\PDFComparer.exe
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\bin\Debug\PDFComparer.pdb
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\obj\Debug\PDFComparer.csproj.AssemblyReference.cache
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\obj\Debug\PDFComparer.Form1.resources
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\obj\Debug\PDFComparer.Properties.Resources.resources
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\obj\Debug\PDFComparer.csproj.GenerateResource.cache
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\obj\Debug\PDFComparer.csproj.CoreCompileInputs.cache
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\obj\Debug\PDFComparer.exe
+D:\0.업무폴더\2.프로젝트\5.git\2. pdfcomparer\PDFComparer\obj\Debug\PDFComparer.pdb
